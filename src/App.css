@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https: //befonts.com/rebond-grotesque-font-family.html');
+
+@font-face {
+  font-family: "RebondGrotesque";
+  src: url("../public/fonts/ESRebondGrotesqueTRIAL-Extrabold-BF661890400e032.otf");
+}
